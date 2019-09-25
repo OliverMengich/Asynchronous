@@ -1,0 +1,11 @@
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\AsyncModels\bin\Debug\netcoreapp2.1\AsyncModels.deps.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\AsyncModels\bin\Debug\netcoreapp2.1\AsyncModels.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\AsyncModels\bin\Debug\netcoreapp2.1\AsyncModels.runtimeconfig.dev.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\AsyncModels\bin\Debug\netcoreapp2.1\AsyncModels.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\AsyncModels\bin\Debug\netcoreapp2.1\AsyncModels.pdb
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\AsyncModels\obj\Debug\netcoreapp2.1\AsyncModels.csprojAssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\AsyncModels\obj\Debug\netcoreapp2.1\AsyncModels.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\AsyncModels\obj\Debug\netcoreapp2.1\AsyncModels.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\AsyncModels\obj\Debug\netcoreapp2.1\AsyncModels.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\AsyncModels\obj\Debug\netcoreapp2.1\AsyncModels.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\AsyncModels\obj\Debug\netcoreapp2.1\AsyncModels.pdb
